@@ -1,8 +1,8 @@
-# if else
+#if else
 
 number = 5
 
 if number % 2 == 0:
-    print("Чётное число")
+    print("Even number")
 else:
-    print("Нечётное число")
+    print("Odd number")

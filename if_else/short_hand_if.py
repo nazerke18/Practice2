@@ -1,9 +1,9 @@
-# Короткий if
+#Short if
 
 a = 10
 b = 20
 
-if a < b: print("a меньше b")
+if a < b: print("a less than b")
 
-# Короткий if else
-print("a больше") if a > b else print("b больше")
+#Short if else
+print("a more") if a > b else print("b more")

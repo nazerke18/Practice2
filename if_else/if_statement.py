@@ -1,6 +1,6 @@
-# Простой if
+#Simple if
 
 age = 20
 
 if age >= 18:
-    print("Вы совершеннолетний")
+    print("You are an adult.")

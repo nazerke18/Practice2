@@ -1,4 +1,4 @@
-# Логические операторы: and, or, not
+#Logical operators: and, or, not
 
 a = True
 b = False
@@ -7,7 +7,7 @@ print(a and b)
 print(a or b)
 print(not a)
 
-# Пример с условиями
+#Example with conditions
 age = 18
 has_id = True
 

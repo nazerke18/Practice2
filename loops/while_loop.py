@@ -1,4 +1,4 @@
-# Цикл while
+#Loop while
 
 i = 1
 while i <= 5:

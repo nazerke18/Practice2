@@ -1,13 +1,13 @@
-# if elif else
+#if elif else
 
 score = 75
 
 if score >= 90:
-    print("Оценка A")
+    print("Grade A")
 elif score >= 70:
-    print("Оценка B")
+    print("Grade B")
 elif score >= 50:
-    print("Оценка C")
+    print("Grade C")
 else:
-    print("Не сдал")
+    print("Didn't pass")
 
